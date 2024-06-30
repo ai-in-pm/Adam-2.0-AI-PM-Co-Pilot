@@ -1,2 +1,6 @@
 pygame
 flask
+ollama
+dotenv
+python-dotenv
+openai
