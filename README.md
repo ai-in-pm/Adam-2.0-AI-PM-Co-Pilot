@@ -13,7 +13,7 @@ Welcome to the Adam 2.0 repository! This project aims to create a user-friendly 
 - [Contributing](#contributing)
 
 ## About Adam 2.0
-Adam 2.0 is an AI-powered chatbot designed to help project managers streamline their tasks and improve efficiency. It leverages advanced natural language processing and machine learning techniques to provide intelligent responses and project management insights.
+Adam 2.0 is an AI-powered chatbot designed to help project managers streamline their tasks and improve efficiency. It leverages advanced natural language processing and machine learning techniques to provide intelligent responses and project management insights. Adam can be trained using Synthetic data.
 
 ## Features
 - Intuitive GUI: A user-friendly interface to interact with Adam 2.0.
