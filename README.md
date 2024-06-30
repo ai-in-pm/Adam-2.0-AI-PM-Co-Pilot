@@ -1,6 +1,6 @@
 ![image](https://github.com/ai-in-pm/Adam-2.0-GUI-AI-PM-Co-Pilot/assets/36999549/9c386a23-3674-44f5-a4e5-fd54514a954d)
 
-# Adam 2.0 - Artificial Intelligence Project Manager Chatbot 
+# Adam 2.0 - Artificial Intelligence Project Manager CO-Pilot
 
 Welcome to the Adam 2.0 repository! This project aims to create a user-friendly Project Manager Co-Pilot, an advanced AI chatbot designed to assist with project management tasks.
 
