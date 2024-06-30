@@ -63,7 +63,7 @@ To get started with the Adam 2.0 GUI, follow these steps:
 
    You can install them using pip: (pygame, flask, ollama, dotenv, python-dotenv, openai).
 
-   You can run to code in your CLI: 
+   You can run the code in your CLI: 
    
    ```
    pip install -r requirements.txt
