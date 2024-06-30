@@ -35,11 +35,16 @@ To get started with the Adam 2.0 GUI, follow these steps:
    cd adam2.0-gui
    ```
 3. Install Dependencies:
-   Make sure you have following Python libraries installed. You can install them using pip: pip install -r requirements.txt
+   Make sure you have following Python libraries installed.
+
+   You can install them using pip: (pygame, flask, ollama, dotenv, python-dotenv, openai).
+
+   You can run: 
+   
    ```
-   pip install pygame flask ollama dotenv python-dotenv openai
+   pip install -r requirements.txt
    ```
-4. Set up OpenAI API Key:
+5. Set up OpenAI API Key:
    Copy the .envsample.txt file and rename it to `.env` file in the project root and add your OpenAI API key:
    ```
    OPENAI_API_KEY=your_api_key_here
