@@ -12,8 +12,6 @@ Welcome to the Adam 2.0 repository! This project aims to create a user-friendly 
 - [Usage](#usage)
 - [Next Steps](#next-steps)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## About Adam 2.0
 
