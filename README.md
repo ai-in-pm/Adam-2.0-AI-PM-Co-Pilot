@@ -174,7 +174,7 @@ if __name__ == "__main__":
 ## PHASE 2 Completed 
 - Improving the User Interface: Enhancing the GUI to display Adam's responses directly in the application window.
 
-  -Implemented Large Language Models - ChatGPT and Ollama
+  -Implemented Large Language Models - ChatGPT and Ollama onto the source code located on main.py
   
 ## Next Steps
 
