@@ -40,7 +40,7 @@ To get started with the Adam 2.0 GUI, follow these steps:
    pip install pygame openai python-dotenv
    ```
 4. Set up OpenAI API Key:
-   Create a `.env` file in the project root and add your OpenAI API key:
+   Copy the .envsample.txt file and rename it to `.env` file in the project root and add your OpenAI API key:
    ```
    OPENAI_API_KEY=your_api_key_here
    ```
