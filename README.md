@@ -1,8 +1,8 @@
 ![image](https://github.com/ai-in-pm/Adam-2.0-GUI-AI-PM-Co-Pilot/assets/36999549/9c386a23-3674-44f5-a4e5-fd54514a954d)
 
-# Adam 2.0 - Artificial Intelligence Project Manager Chatbot GUI
+# Adam 2.0 - Artificial Intelligence Project Manager Chatbot 
 
-Welcome to the Adam 2.0 GUI development repository! This project aims to create a user-friendly graphical interface for Adam 2.0, an advanced AI chatbot designed to assist with project management tasks.
+Welcome to the Adam 2.0 repository! This project aims to create a user-friendly Project Manager Co-Pilot, an advanced AI chatbot designed to assist with project management tasks.
 
 ## Table of Contents
 
@@ -26,6 +26,8 @@ Adam 2.0 is an AI-powered chatbot designed to help project managers streamline t
 - **Project Management Tools**: Integration with popular project management tools.
 - **Customizable Settings**: Options to customize the chatbot's behavior and responses.
 - **Analytics and Reporting**: Generate reports and analytics to monitor project progress.
+
+PAHSE 1:  Develop a GUI
 
 ## Installation
 
@@ -153,7 +155,7 @@ To run the GUI with the provided visualization code, follow these steps:
     python main.py
     ```
 
-## Next Steps
+## Next Steps - PHASE 2
 
 This is the first phase of developing Adam 2.0. The next steps involve:
 
