@@ -28,7 +28,7 @@ To get started with the Adam 2.0 GUI, follow these steps:
 
 1. Clone the Repository:
    ```
-   git clone https://github.com/yourusername/adam2.0-gui.git
+   git clone https://github.com/yourusername/adam-2.0-gui.git
    ```
 2. Navigate to the Project Directory:
    ```
