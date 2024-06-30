@@ -32,7 +32,7 @@ To get started with the Adam 2.0 GUI, follow these steps:
    ```
 2. Navigate to the Project Directory:
    ```
-   cd adam2.0-gui
+   cd adam2.0-ai-pm-co-pilot
    ```
 3. Create a virtual environment (recommended):
      ```
