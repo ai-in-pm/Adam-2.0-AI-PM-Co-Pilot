@@ -34,17 +34,41 @@ To get started with the Adam 2.0 GUI, follow these steps:
    ```
    cd adam2.0-gui
    ```
-3. Install Dependencies:
+3. Create a virtual environment (recommended):
+     ```
+     Python 
+     Create a new directory and make cwd
+     create the virtual directory I use: python -m venv 'Virtual project name'
+     You can activate virtual environment inside of VSCode:
+     
+     -On your keyboard click Ctrl/Shift/P all at the same time
+     -click on select interpreter 
+     -choose your newly created virtual environment (will be remembered, for all code in project)
+     -when using python from command line, start virtual environment as follows:
+     -Set cwd to top directory of project
+     -Issue command (Linux) . ./venv/bin/activate
+
+     OR
+
+     Conda
+   # [optional to create conda environment]
+   # conda create -n Adam-2.0-AI-PM-Co-Pilot python=3.11
+   # conda activate Adam-2.0-AI-PM-Co-Pilot
+     
+     ```
+
+5. Install Dependencies:
+
    Make sure you have following Python libraries installed.
 
    You can install them using pip: (pygame, flask, ollama, dotenv, python-dotenv, openai).
 
-   You can run: 
+   You can run to code in your CLI: 
    
    ```
    pip install -r requirements.txt
    ```
-5. Set up OpenAI API Key:
+6. Set up OpenAI API Key:
    Copy the .envsample.txt file and rename it to `.env` file in the project root and add your OpenAI API key:
    ```
    OPENAI_API_KEY=your_api_key_here
