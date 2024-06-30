@@ -171,15 +171,20 @@ if __name__ == "__main__":
    python main.py
    ```
 
-## Next Steps - PHASE 2
-This is the second phase of developing Adam 2.0. We've successfully integrated a Large Language Model (GPT-4) to enhance Adam's natural language understanding and generation capabilities. The next steps involve:
-
+## PHASE 2 Completed 
 - Improving the User Interface: Enhancing the GUI to display Adam's responses directly in the application window.
-- Incorporating Eleven Labs: Adding functionalities from Eleven Labs for improved speech synthesis and recognition to make Adam more interactive and user-friendly.
-- Expanding Project Management Features: Implementing specific project management functionalities such as task tracking, timeline management, and resource allocation.
+      -Implemented Large Language Models - ChatGPT and Ollama
+  
+## Next Steps
+
+PHASE 3 
+- Incorporate Eleven Labs: Adding functionalities from Eleven Labs for improved speech synthesis and recognition to make Adam more interactive and user-friendly.
+
+PHASE 4
+-Add open source code called "llm-data-creation" developed by Microsoft.  This will be used to train Adam based on Synthetic Datasets.
+   -GitHub Repository to llm-data-creation:  https://github.com/microsoft/llm-data-creation
 
 Stay tuned for updates and contributions to these exciting developments!
-
 ## Contributing
 We welcome contributions from the community! To contribute to the project, follow these steps:
 
