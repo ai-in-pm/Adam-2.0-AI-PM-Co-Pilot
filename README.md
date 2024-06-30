@@ -207,10 +207,10 @@ if __name__ == "__main__":
   
 ## Next Steps
 
-PHASE 3 
+PHASE 3 - Add Voice-to-Voice
 - Incorporate Eleven Labs: Adding functionalities from Eleven Labs for improved speech synthesis and recognition to make Adam more interactive and user-friendly.
 
-PHASE 4
+PHASE 4 - Synthetic Dataset
 
    -Add open source code called "llm-data-creation" developed by Microsoft.  This will be used to train Adam based on Synthetic Datasets.
       -GitHub Repository to llm-data-creation:  https://github.com/microsoft/llm-data-creation
